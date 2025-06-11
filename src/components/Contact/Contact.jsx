@@ -1,7 +1,7 @@
 
   export default function Contact() {
     return (
-      <div className=" text-green-400 bg-[#1e1e1e] font-mono p-6 text-sm md:text-3xl">
+      <div className=" text-green-400 bg-[#1e1e1e] font-mono p-6 text-sm md:text-3xl min-h-192">
         <pre>
   {`{ 
   "name": "Olivia Chattopadhyay",`}

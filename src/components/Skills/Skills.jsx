@@ -23,7 +23,7 @@ export default function Skills() {
 
   return (
     
-    <div className="p-8 bg-[#1e1e1e] text-white min-h-screen font-sans ">
+    <div className="p-8 bg-[#1e1e1e] text-white min-h-192 font-sans ">
       
       <h1 className="text-4xl font-bold mb-6 text-blue-400">💡 SKILLS</h1>
 
