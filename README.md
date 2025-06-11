@@ -10,11 +10,6 @@ A fully responsive personal portfolio website built with **React.js** and styled
 - 💻 Clean UI & developer-centric theme
 - 🧠 Easily customizable and modular structure
 
-## 📸 Preview
-
-![Portfolio Screenshot](./preview.png) <!-- (optional: add a screenshot here in your repo) -->
-
-Or view it live 👉 [https://O-Chat.github.io/Portfolio-Olivia](https://O-Chat.github.io/Portfolio-Olivia)
 
 ## 🚀 Tech Stack
 
@@ -49,11 +44,6 @@ src/
     ```bash
     npm run dev
 
-4. **To deploy to GitHub Pages (optional):**
-
-    ```bash
-    npm run build
-    npm run deploy
 
 **Contact**
 
