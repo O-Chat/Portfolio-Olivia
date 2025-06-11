@@ -28,12 +28,7 @@ export default function Home() {
       {/* Right: Vertical line + tagline */}
       <div className="flex items-center  ">
         <div className="hidden lg:flex h-50 border-l-2 border-gray-500 mr-6 "></div>
-        {/* <p className="text-2xl italic text-gray-400 max-w-xs">
-          Passionate coder & lifelong learner
-        </p>
-        <div className="mt-6 text-8xl animate-bounce" role="img" aria-label="happy face emoji">
-        😎
-        </div> */}
+       
         <p className="hidden md:flex text-xl md:text-2xl text-yellow-300 mt-6 font-mono">
         <Typewriter
          words={['Passionate Coder 💻', 'Tech Explorer 🌐', 'Lifelong Learner 🌟']}

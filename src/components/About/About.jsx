@@ -1,24 +1,5 @@
-// export default function About() {
-//     // return <h1 className="text-2xl">👋 Hello, I’m [Your Name]!
-//     // </h1>;
-//     return <div className="flex flex-row min-h-screen bg-[#1e1e1e] text-white">
-//     {/* Left Section */}
-//     <div className="w-1/2 p-8 font-mono">
-//       {/* Terminal-style academic info here */}
-//     </div>
-  
-//     {/* Right Section */}
-//     <div className="w-1/2 p-8 flex flex-col items-center justify-center text-center">
-//       <img src="/your-image.jpg" alt="Olivia" className="w-40 h-40 rounded-full mb-4" />
-//       <h1 className="text-xl font-bold">Hi, I'm Olivia!</h1>
-//       <p className="mt-2 text-green-400">
-//         CS Undergrad at IIEST Shibpur | Crypto Enthusiast | Web Dev Explorer
-//       </p>
-//     </div>
-//   </div>
-  
-//   }
-import profileImg from '../../assets/MyPhoto/Olivia.jpeg'; // adjust path based on folder structure
+
+import profileImg from '../../assets/MyPhoto/Olivia.jpeg'; 
 
 
   export default function About() {
@@ -28,13 +9,13 @@ import profileImg from '../../assets/MyPhoto/Olivia.jpeg'; // adjust path based 
         {/* Left Side: Image + Short Bio */}
         <div className="md:w-2/5 w-full flex flex-col items-center justify-center p-8">
           <img
-            src={profileImg} // replace with your actual path
+            src={profileImg} 
             alt="Olivia"
             className="w-100 h-100 rounded-full mb-4 border-4 border-green-400 shadow-lg"
           />
           <h2 className="text-3xl font-semibold text-green-400 mb-2">Hi, I'm Olivia!!</h2>
           <p className="text-center text-md text-gray-300">
-  A CS undergrad at IIEST Shibpur with a strong grip on <span className="text-green-400 font-semibold">Data Structures & Algorithms</span> and a love for crafting clean, scalable systems with <span className="text-green-400 font-semibold">Object-Oriented Programming</span>. I enjoy building sleek interfaces with <span className="text-green-400 font-semibold">React.js</span> and diving deep into the logic behind <span className="text-green-400 font-semibold">Cryptographic algorithms</span>. Whether it's designing UIs or decoding ciphers, I'm always ready for a challenge!
+  A CS undergraduate at IIEST Shibpur with a strong grip on <span className="text-green-400 font-semibold">Data Structures & Algorithms</span> and a love for crafting clean, scalable systems with <span className="text-green-400 font-semibold">Object-Oriented Programming</span>. I enjoy building sleek interfaces with <span className="text-green-400 font-semibold">React.js</span> and diving deep into the logic behind <span className="text-green-400 font-semibold">Cryptographic algorithms</span>. Whether it's designing UIs or decoding ciphers, I'm always ready for a challenge!
 </p>
 
         </div>
@@ -54,14 +35,14 @@ import profileImg from '../../assets/MyPhoto/Olivia.jpeg'; // adjust path based 
           <div>
             <h3 className="text-green-400 text-xl font-semibold mb-2">💻 Skills</h3>
             <p className="text-gray-300 text-md">
-              C++,C, JavaScript, React.js, Node.js, Tailwind CSS
+              C++, C, JavaScript, React.js, Node.js, Tailwind CSS
             </p>
           </div>
   
           <div>
             <h3 className="text-green-400 text-xl font-semibold mb-2">🎯 Currently Learning</h3>
             <p className="text-gray-300 text-md">
-              Mongoose,MongoDB, Blockchain fundamentals
+              Mongoose, MongoDB, Blockchain fundamentals
             </p>
           </div>
   

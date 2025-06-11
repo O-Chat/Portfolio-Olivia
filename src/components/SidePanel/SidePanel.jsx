@@ -85,10 +85,7 @@ export default function SidePanel() {
         <div
           onClick={togglePortfolio}
           className="cursor-pointer pl-2 flex items-center gap-1 hover:text-blue-400">
-          {/* <span className="text-l">
-            {isPortfolioOpen ? '📂' : '📁'} Portfolio
-          </span>
-        </div> */}
+         
         <svg
     className={`w-3 h-3 text-gray-400 transition-transform duration-200 ${
       isPortfolioOpen ? 'rotate-90' : ''
@@ -116,7 +113,7 @@ export default function SidePanel() {
               }
             >
               <img
-    src="./src/assets/JSXLogo/JSX.png"  // relative to public folder
+    src="./src/assets/JSXLogo/JSX.png"
     alt="JSX Logo"
     className="h-5 w-5"
   />
@@ -131,7 +128,7 @@ export default function SidePanel() {
               }
             >
                <img
-    src="./src/assets/JSLogo/JS.png"  // relative to public folder
+    src="./src/assets/JSLogo/JS.png"  
     alt="JSX Logo"
     className="h-5 w-5"
   />
@@ -146,7 +143,7 @@ export default function SidePanel() {
               }
             >
                <img
-    src="./src/assets/CSSLogo/CSS.png"  // relative to public folder
+    src="./src/assets/CSSLogo/CSS.png"  
     alt="CSS Logo"
     className="h-5 w-5"
   />
@@ -161,7 +158,7 @@ export default function SidePanel() {
               }
             >
                <img
-    src="./src/assets/JSONLogo/JSON.png"  // relative to public folder
+    src="./src/assets/JSONLogo/JSON.png"  
     alt="CSS Logo"
     className="h-5 w-5"
   />

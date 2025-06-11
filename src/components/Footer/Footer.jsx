@@ -28,7 +28,7 @@ function Footer(){
            
             <div className="flex flex-row item-center pr-5 gap-2">
             <img
-    src="./src/assets/JSXLogo/JSX.png"  // relative to public folder
+    src="./src/assets/JSXLogo/JSX.png"  
     alt="JSX Logo"
     className="h-5 w-5 "/> ReactJS
 
