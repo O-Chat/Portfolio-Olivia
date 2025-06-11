@@ -1,12 +1,74 @@
-# React + Vite
+# 🧑‍💻 Olivia's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive personal portfolio website built with **React.js** and styled using **Tailwind CSS**, designed to resemble the look and feel of **Visual Studio Code**.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔷 VS Code–inspired interface with tabs and terminal feel
+- 📱 Fully responsive for all devices
+- 💼 Sections: About, Projects, Skills, Contact
+- 💻 Clean UI & developer-centric theme
+- 🧠 Easily customizable and modular structure
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Portfolio Screenshot](./preview.png) <!-- (optional: add a screenshot here in your repo) -->
+
+Or view it live 👉 [https://O-Chat.github.io/Portfolio-Olivia](https://O-Chat.github.io/Portfolio-Olivia)
+
+## 🚀 Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **Build Tool:** Vite
+- **Deployment:** GitHub Pages
+
+## 📁 Folder Structure
+
+src/
+├── assets/ # Images and icons
+├── components/ # About, Projects, Contact etc.
+├── App.jsx # Main layout
+├── main.jsx # Entry point
+└── index.css # Tailwind styling
+
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/O-Chat/Portfolio-Olivia.git
+   cd Portfolio-Olivia
+2. **Install dependencies:**
+    
+    ```bash
+    npm install
+
+3. **Start the development server:**
+    
+    ```bash
+    npm run dev
+
+4. **To deploy to GitHub Pages (optional):**
+
+    ```bash
+    npm run build
+    npm run deploy
+
+**Contact**
+
+If you'd like to connect or collaborate:
+
+    📧 Email: olivia.chat2005@gmail.com
+
+    🌐 Portfolio: https://github.com/O-Chat/Portfolio-Olivia
+
+    💼 LinkedIn: https://linkedin.com/in/olivia
+
+
+**🙏 Acknowledgements**
+
+    Inspired by Visual Studio Code interface
+
+    Developed with ❤️ by Olivia Chattopadhyay
+
