@@ -1,4 +1,5 @@
-# 🧑‍💻 Olivia's Developer Portfolio
+# CodePersona - Olivia's Developer Portfolio
+*A developer's digital identity, styled in VS Code aesthetics.*
 
 A fully responsive personal portfolio website built with **React.js** and styled using **Tailwind CSS**, designed to resemble the look and feel of **Visual Studio Code**.
 
