@@ -8,7 +8,7 @@
   
           {/* Project 1: Portfolio */}
           <div className="bg-[#2b2b2b] p-5 rounded-xl shadow-md hover:shadow-green-500/20 transition-shadow">
-            <h2 className="text-xl font-semibold text-green-300">My Portfolio Website</h2>
+            <h2 className="text-xl font-semibold text-green-300">CodePersona - My Portfolio</h2>
             <p className="text-gray-300">Built using <span className="text-green-400">React.js</span> and Tailwind CSS. Fully responsive and inspired by VS Code’s interface.</p>
             <a
               href="https://github.com/O-Chat/Portfolio-Olivia"
@@ -20,7 +20,36 @@
             </a>
           </div>
 
-           {/* Project 2: AES-128bit */}
+          {/* Project 2: E-Voting System */}
+          <div className="bg-[#2b2b2b] p-5 rounded-xl shadow-md hover:shadow-green-500/20 transition-shadow">
+            <h2 className="text-xl font-semibold text-green-300">BlockVote : Blockchain based E-Voting System</h2>
+            <p className="text-gray-300">Designed a full-stack, <span className="text-green-400">blockchain-powered</span> e-voting platform <span className="text-green-400">(React·Node.js·MongoDB)</span> with <span className="text-green-400">JWT-secured</span>
+role access, delivering tamper-proof ballots and real-time, verifiable election results.</p>
+            <a
+              href="https://github.com/O-Chat/EVotingSystem"
+              className="text-blue-400 underline mt-2 inline-block"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GitHub Repo-https://github.com/O-Chat/EVotingSystem
+            </a>
+          </div>
+           {/* Project 3: Emergency Transport System (In Progress) */}
+        <div className="bg-[#2b2b2b] p-5 rounded-xl shadow-md hover:shadow-green-500/20 transition-shadow">
+          <h2 className="text-xl font-semibold text-green-300">ETMS - Emergency Transport Maintenance System(Ongoing)</h2>
+          <p className="text-gray-300">Built a full-stack emergency dispatch simulator using <span className="text-green-400">React.js </span>(frontend) and <span className="text-green-400">C++</span> for core logic. Imple-
+ments <span className="text-green-400">Dijkstra’s Algorithm</span> to assign the nearest ambulance, firetruck, or police unit.</p>
+          <a
+            href="https://github.com/O-Chat/ETMS" // replace with actual repo link
+            className="text-blue-400 underline mt-2 inline-block"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub Repo (In Progress)- https://github.com/O-Chat/ETMS
+          </a>
+        </div>
+
+           {/* Project 4: AES-128bit */}
            <div className="bg-[#2b2b2b] p-5 rounded-xl shadow-md hover:shadow-green-500/20 transition-shadow">
             <h2 className="text-xl font-semibold text-green-300">AES 128-bit implementation</h2>
             <p className="text-gray-300">Implemented AES-128 encryption from scratch in <span className="text-green-400">C++</span> with support for
@@ -36,7 +65,7 @@ and modular OOP Design .</p>
             </a>
             </div>
   
-          {/* Project 3: Netflix UI Clone */}
+          {/* Project 5: Netflix UI Clone */}
           <div className="bg-[#2b2b2b] p-5 rounded-xl shadow-md hover:shadow-green-500/20 transition-shadow">
             <h2 className="text-xl font-semibold text-green-300">Netflix UI Clone</h2>
             <p className="text-gray-300">Designed using <span className="text-green-400">HTML, Tailwind CSS,</span> and <span className="text-green-400">JavaScript</span>. Mimics Netflix homepage layout.</p>
@@ -52,19 +81,7 @@ and modular OOP Design .</p>
 
           
 
-             {/* Project 4: Emergency Transport System (In Progress) */}
-        <div className="bg-[#2b2b2b] p-5 rounded-xl shadow-md hover:shadow-green-500/20 transition-shadow">
-          <h2 className="text-xl font-semibold text-green-300">Emergency Transport Maintenance System(Ongoing)</h2>
-          <p className="text-gray-300">A full-fledged emergency vehicle dispatch system in development using <span className="text-green-400">C++</span> for logic and <span className="text-green-400">Python Tkinter</span> for GUI. Uses Dijkstra’s algorithm and priority queues for optimal dispatching.</p>
-          <a
-            href="https://github.com/O-Chat/ETMS" // replace with actual repo link
-            className="text-blue-400 underline mt-2 inline-block"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            GitHub Repo (In Progress)- https://github.com/O-Chat/ETMS
-          </a>
-        </div>
+            
           
           </div>
           </div>

@@ -35,7 +35,7 @@ function Header(){
                     </img>                         */}
                     <MagnifyingGlassIcon className="h-5 w-5 text-gray-400" />
 
-                    <p className="truncate text-sm text-center">Olivia Chattopadhyay-Portfolio</p>               
+                    <p className="truncate text-sm text-center">CodePersona - Olivia Chattopadhyay</p>               
             </div>
             <div className="flex justify-end">
             <Cog6ToothIcon className="h-5 w-5 text-gray-400" />

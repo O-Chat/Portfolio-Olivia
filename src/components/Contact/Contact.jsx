@@ -6,13 +6,13 @@
   {`{ 
   "name": "Olivia Chattopadhyay",`}
         </pre>
-        <pre>
+        {/* <pre>
           {`  "phone": `}
           <a href="tel:+919356528461" className="text-blue-400 hover:underline">
             "+91-9356528461"
           </a>
           {`,`}
-        </pre>
+        </pre> */}
         <pre>
           {`  "email": `}
           <a href="mailto:olivia.chat2005@gmail.com" className="text-blue-400 hover:underline">

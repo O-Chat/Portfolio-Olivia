@@ -35,14 +35,14 @@ import profileImg from '../../assets/MyPhoto/Olivia.jpeg';
           <div>
             <h3 className="text-green-400 text-xl font-semibold mb-2">💻 Skills</h3>
             <p className="text-gray-300 text-md">
-              C++, C, JavaScript, React.js, Node.js, Tailwind CSS
+              C++, C, JavaScript, React.js, Node.js,Express.js, MongoDB, Mongoose, Tailwind CSS
             </p>
           </div>
   
           <div>
             <h3 className="text-green-400 text-xl font-semibold mb-2">🎯 Currently Learning</h3>
             <p className="text-gray-300 text-md">
-              Mongoose, MongoDB, Blockchain fundamentals
+             Machine Learning Fundamentals
             </p>
           </div>
   

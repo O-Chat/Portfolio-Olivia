@@ -1,15 +1,16 @@
 
 export default function Skills() {
   const dsaSkills = ['C', 'C++'];
-  const devSkills = ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Tailwind CSS'];
-  const tools = ['Linux', 'Git'];
+  const devSkills = ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Tailwind CSS', 'Node.js', 'Express.js', 'MongoDB', 'Mongoose'];
+  const tools = ['Linux', 'Git', 'GitHub', 'VS Code', 'Postman'];
   const cryptoSkills = [
     'Cryptography Basics',
     'AES',
     'RSA',
     'Digital Signature',
     'Digital Envelope',
-    'Digital Certificate'
+    'Digital Certificate',
+    'Hashing Algorithms'
   ];
 
   const renderSkillTag = (skill) => (
