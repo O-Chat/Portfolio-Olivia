@@ -1,4 +1,5 @@
-# 🧑‍💻 Olivia's Developer Portfolio
+# CodePersona - My Developer Portfolio
+*My digital identity, styled in VS Code aesthetics*
 
 A fully responsive personal portfolio website built with **React.js** and styled using **Tailwind CSS**, designed to resemble the look and feel of **Visual Studio Code**.
 
@@ -60,5 +61,5 @@ If you'd like to connect or collaborate:
 
     Inspired by Visual Studio Code interface
 
-    Developed with ❤️ by Olivia Chattopadhyay
+    Developed by Olivia Chattopadhyay
 
